@@ -23,6 +23,5 @@ public class SampleController {
         SpringApplication.run(SampleController.class, args);
         System.out.println("提交一次试一试");
         System.out.println("提交一次试一试");
-        System.out.println("提交一次试一试");
     }
 }
