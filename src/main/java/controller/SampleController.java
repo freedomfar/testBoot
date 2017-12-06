@@ -21,5 +21,6 @@ public class SampleController {
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(SampleController.class, args);
+        System.out.println("提交一次试一试");
     }
 }
